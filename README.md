@@ -1,7 +1,7 @@
 # DecodeLabs-Internship
 Project Overview
 A robust Python Command Line Suite focusing on core engineering principles, security, and defensive design pattern execution.
-📦 Application Summary
+#📦 Application Summary
 1-To-Do List Manager: 
 Implements clean structural pattern matching (match/case) instead of nested conditionals. 
 Manages data allocation dynamically on the heap and scales massive arrays by splitting "Giant Lists" into sub-lists.
