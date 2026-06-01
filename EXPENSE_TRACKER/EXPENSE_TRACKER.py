@@ -41,7 +41,11 @@ def main():
         if (Categories==5):
             totalFun=expense_price*amount_o_product
 
+<<<<<<< HEAD
         Total_day=int((amount_o_product*expense_price))
+=======
+        Total_day=int(amount_o_product*expense_price)
+>>>>>>> 4b8c2dd41d59bb2cccc7c30edb9435a4d7051bb7
 
         Total+=int(Total_day)
         
