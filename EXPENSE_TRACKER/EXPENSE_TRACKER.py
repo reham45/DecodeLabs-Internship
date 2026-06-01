@@ -41,7 +41,7 @@ def main():
         if (Categories==5):
             totalFun=expense_price*amount_o_product
 
-        Total_day=int(totalhome+totalStudy+totalFoods+totalPersonal+totalFun)
+        Total_day=int(amount_o_product*expense_price)
 
         Total+=int(Total_day)
         print("You've added ",amount_o_product,expense_name,"its price is (",expense_price,"$)for each one",",so the Total for Today is",Total_day,"$")
